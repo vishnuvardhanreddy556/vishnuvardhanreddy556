@@ -81,6 +81,9 @@ Built an interactive Excel dashboard using Pivot Tables, KPI Cards, Slicers, COU
 
 ---
 
+<div align="center">
+  <img src="./modules-completed-final.gif" width="600">
+</div>
 
 
 - Microsoft Excel
