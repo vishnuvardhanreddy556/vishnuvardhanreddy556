@@ -1,4 +1,8 @@
-file_000000006e488208ac3549d96a772369.png
+<p align="center">
+  <img src="./file_000000006e488208ac3549d96a772369.png" width="100%">
+</p>
+
+---
 
 # 👋 Hi, I'm Vishnu Vardhan Reddy
 
