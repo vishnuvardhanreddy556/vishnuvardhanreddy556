@@ -14,7 +14,9 @@ I enjoy transforming raw data into meaningful insights using SQL, Python, Excel,
 
 ---
 
-## 🛠️ Technical Skills
+<div align="center">
+<img src="./skills-heading.gif" width="600">
+</div>
 
 ### 📊 Data Analytics & BI
 - Excel
@@ -43,7 +45,9 @@ I enjoy transforming raw data into meaningful insights using SQL, Python, Excel,
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+<img src="./projects-heading.gif" width="600">
+</div>
 
 ### 📊 Superstore Sales & Profit Analytics
 Power BI dashboard focused on regional performance, sales, profit, and business insights.
@@ -69,7 +73,9 @@ Built an interactive Excel dashboard using Pivot Tables, KPI Cards, Slicers, COU
 
 ---
 
-## 📚 Currently Learning
+<div align="center">
+<img src="./learning-heading.gif" width="600">
+</div>
 
 - Advanced SQL
 - Python for Data Analytics
@@ -80,13 +86,17 @@ Built an interactive Excel dashboard using Pivot Tables, KPI Cards, Slicers, COU
 
 ---
 
-## 🎯 Career Goal
+<div align="center">
+<img src="./career-heading.gif" width="600">
+</div>
 
 To build a career in Data Analytics / Data Science and use data-driven insights to solve real-world business problems.
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
+<img src="./connect-heading.gif" width="600">
+</div>
 
 - 💼 LinkedIn: [www.linkedin.com/in/
 vishnuvardhan-reddy-kooluru-b462062b8
