@@ -19,14 +19,14 @@ I enjoy transforming raw data into meaningful insights using SQL, Python, Excel,
 </div>
 
 <div align="left">
-  <img src="./data-analytics-bi-popup-left.gif" width="500">
+  <img src="./data-analytics-bi-popup-left.gif" width="400">
 </div>
 - Excel
 - Power BI
 - Tableau
 
 <div align="left">
-  <img src="./programming-data-popup-left.gif" width="500">
+  <img src="./programming-data-popup-left.gif" width="400">
 </div>
 - Python
 - SQL
@@ -36,7 +36,7 @@ I enjoy transforming raw data into meaningful insights using SQL, Python, Excel,
 - Plotly
 
 <div align="left">
-  <img src="./database-popup-left.gif" width="500">
+  <img src="./database-popup-left.gif" width="400">
 </div>
 - SQL Server
 - Database Design
@@ -44,7 +44,7 @@ I enjoy transforming raw data into meaningful insights using SQL, Python, Excel,
 - Data Analysis
 
 <div align="left">
-  <img src="./data-visualization-popup-left.gif" width="500">
+  <img src="./data-visualization-popup-left.gif" width="400">
 </div>
 - Interactive Dashboards
 - KPI Reports
