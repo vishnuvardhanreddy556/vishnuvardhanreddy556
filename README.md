@@ -83,7 +83,10 @@ To build a career in Data Analytics / Data Science and use data-driven insights 
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn URL]
+- 💼 LinkedIn: [www.linkedin.com/in/
+vishnuvardhan-reddy-kooluru-b462062b8
+Vanity URL name]
+
 - 🐙 GitHub: [https://github.com/vishnuvardhanreddy556](https://github.com/vishnuvardhanreddy556)
 
 ---
