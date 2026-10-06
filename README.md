@@ -18,12 +18,16 @@ I enjoy transforming raw data into meaningful insights using SQL, Python, Excel,
 <img src="./skills-heading.gif" width="600">
 </div>
 
-### 📊 Data Analytics & BI
+<div align="left">
+  <img src="./data-analytics-bi-left.gif" width="500">
+</div>
 - Excel
 - Power BI
 - Tableau
 
-### 💻 Programming & Data
+<div align="left">
+  <img src="./programming-data-left.gif" width="500">
+</div>
 - Python
 - SQL
 - Pandas
@@ -31,13 +35,17 @@ I enjoy transforming raw data into meaningful insights using SQL, Python, Excel,
 - Matplotlib
 - Plotly
 
-### 🗄️ Database
+<div align="left">
+  <img src="./database-left.gif" width="500">
+</div>
 - SQL Server
 - Database Design
 - Data Cleaning
 - Data Analysis
 
-### 📈 Data Visualization
+<div align="left">
+  <img src="./data-visualization-left.gif" width="500">
+</div>
 - Interactive Dashboards
 - KPI Reports
 - Business Intelligence
