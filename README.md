@@ -89,6 +89,8 @@ Vanity URL name]
 
 - 🐙 GitHub: [https://github.com/vishnuvardhanreddy556](https://github.com/vishnuvardhanreddy556)
 
+- 📧 Email: vardhanreddy556@gmail.com
+
 ---
 
 ⭐ Feel free to explore my repositories and projects!
