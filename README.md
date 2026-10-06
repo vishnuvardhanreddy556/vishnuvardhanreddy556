@@ -81,6 +81,16 @@ Built an interactive Excel dashboard using Pivot Tables, KPI Cards, Slicers, COU
 
 ---
 
+
+
+- Microsoft Excel
+- python Basics
+- Sql
+- Tableau
+- Power BI
+
+---
+
 <div align="center">
 <img src="./learning-heading.gif" width="600">
 </div>
