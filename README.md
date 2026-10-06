@@ -85,12 +85,8 @@ Built an interactive Excel dashboard using Pivot Tables, KPI Cards, Slicers, COU
 <img src="./learning-heading.gif" width="600">
 </div>
 
-- Advanced SQL
-- Python for Data Analytics
-- Power BI
-- Tableau
-- Statistics
 - Machine Learning
+- Advance Python for Data Science
 
 ---
 
